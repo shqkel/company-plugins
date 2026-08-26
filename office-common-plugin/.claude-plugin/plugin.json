@@ -1,0 +1,9 @@
+{
+  "name": "office-common-plugin",
+  "description": "부서 공통 업무 스킬 묶음. 회의록을 결정·할 일로 정리하고, 한 주 기록을 주간보고로 만들고, 완성한 문서를 내보내기 전에 점검한다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "우리 회사"
+  },
+  "keywords": ["회의록", "주간보고", "문서점검", "office", "cowork"]
+}

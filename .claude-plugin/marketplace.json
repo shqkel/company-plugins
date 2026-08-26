@@ -1,0 +1,14 @@
+{
+  "name": "company-plugins",
+  "owner": {
+    "name": "우리 회사"
+  },
+  "description": "부서를 가리지 않고 쓰는 업무 스킬 모음. 부서별 플러그인은 여기에 항목을 더해 늘린다.",
+  "plugins": [
+    {
+      "name": "office-common-plugin",
+      "source": "./office-common-plugin",
+      "description": "회의록 정리 · 주간보고 작성 · 문서 점검 — 어느 부서에서나 매주 반복되는 세 가지"
+    }
+  ]
+}
